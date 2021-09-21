@@ -1,0 +1,3 @@
+include ':tinyCBC'
+include ':app'
+rootProject.name = "TinyCBC"
